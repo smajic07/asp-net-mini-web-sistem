@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\aspnetserver",
+    "\\aspnetserver\\Data",
+    "\\aspnetserver\\Data\\Migrations",
+    "\\aspnetserver\\Properties"
+  ],
+  "SelectedNode": "\\aspnetserver\\Data\\Migrations\\20220514235045_SecondMigration.cs",
+  "PreviewInSolutionExplorer": false
+}
